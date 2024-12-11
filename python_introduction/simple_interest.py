@@ -1,6 +1,6 @@
 # Defining Variables 
 principal = 1000
-rate = 0.005
+rate = 0.05
 time = 3
 
 # Calculate Simple Interest
